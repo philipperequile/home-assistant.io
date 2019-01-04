@@ -23,7 +23,7 @@ To enable ADS, add the following lines to your `configuration.yaml` file:
 # Example configuration.yaml entry
 ads:
   device: '127.0.0.1.1.1'
-  port: 48898
+  port: 851
 ```
 
 {% configuration %}
